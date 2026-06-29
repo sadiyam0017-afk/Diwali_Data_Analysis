@@ -202,7 +202,7 @@ This project is intended for educational and learning purposes.
 
 ## 👨‍💻 Author
 
-**sadiya momin**
+**sadiyaa momin**
 
 Data Science Enthusiast 
 
